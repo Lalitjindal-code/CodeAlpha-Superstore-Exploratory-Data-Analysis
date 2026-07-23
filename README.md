@@ -1,5 +1,10 @@
 # CodeAlpha Superstore EDA
 
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter-orange.svg)
+![Pandas](https://img.shields.io/badge/Library-Pandas-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+
 > **CodeAlpha Data Analytics Internship Project**
 
 A production-quality Exploratory Data Analysis (EDA) of the Global Superstore Sales dataset, designed to surface actionable business intelligence through rigorous statistical analysis and professional data visualisation.
@@ -16,8 +21,8 @@ The analysis follows a structured, industry-standard EDA workflow and is documen
 
 ## Repository Structure
 
-```
-codealpha-superstore-eda/
+```text
+CodeAlpha-Superstore-Exploratory-Data-Analysis/
 ├── CodeAlpha_Superstore_EDA.ipynb   # Main analysis notebook
 ├── train.csv                        # Source dataset (9,800 rows × 18 columns)
 ├── requirements.txt                 # Python dependencies
@@ -84,12 +89,21 @@ codealpha-superstore-eda/
 
 ---
 
+## Key Insights Discovered
+
+*(**Tip**: Update these with 2-3 actual findings from your notebook to impress anyone reading this!)*
+- **Top Category:** *Example: Technology generates the highest overall profit despite lower volume.*
+- **Regional Trend:** *Example: The West region consistently outperforms others in total sales.*
+- **Shipping Mode:** *Example: Standard Class is overwhelmingly preferred, accounting for >60% of all orders.*
+
+---
+
 ## Getting Started
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/CodeAlpha_Superstore_EDA.git
-cd CodeAlpha_Superstore_EDA
+git clone https://github.com/Lalitjindal-code/CodeAlpha-Superstore-Exploratory-Data-Analysis.git
+cd CodeAlpha-Superstore-Exploratory-Data-Analysis
 
 # Create and activate a virtual environment
 python -m venv .venv

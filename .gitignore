@@ -29,3 +29,8 @@ Thumbs.db
 # Logs and temporary files
 *.log
 *.tmp
+
+# Agent / Project Management Artifacts
+AGENT.MD
+PRD.MD
+TASKS.MD
